@@ -7,51 +7,99 @@ NOTE: This list is crowdsourced and incomplete, therefore I cannot guarantee its
 Also NOTE: If you know of a game that has integrated lighting that is not on this list, or if you see an error and would like to contribute, please open an issue or pull request. Please follow the MD formatting (including adding two spaces at the end of the line) and alphabetical ordering if you would like to add a game through pull request.
 
 > American Truck Simulator  
+
 > Anthem  
+
 > Assetto Corsa  
+
 > Avatar Frontiers of Pandora
+
 > Battlefield 1  
+
 > Battlefield V  
+
 > Beat Cop  
+
 > Borderlands 3  
-> Civilization VI  
-> Counter-Strike: Global Offensive  
+
+> Civilization VI 
+ 
+> Counter-Strike: Global Offensive 
+ 
 > Discord  
+
 > Dota 2  
-> Euro Truck Simulator  
+
+> Euro Truck Simulator 
+ 
 > Factorio  
-> Final Fantasy XIV Shadowbringers  
+
+> Final Fantasy XIV Shadowbringers 
+ 
 > Final Fantasy XIV Stormblood  
+
 > Fortnite  
+
 > Frostpunk  
-> Grand Theft Auto V  
+
+> Grand Theft Auto V 
+ 
 > HELLDIVERS™ 2
+
 > Injustice 2  
+
 > iRacing  
+
 > Journey to the Savage Planet  
+
 > Kerbal Space Program 2  
+
 > Killing Floor 2  
+
 > League of Legends  
+
 > Like a Dragon: Infinite Wealth
+
 > Mafia III  
-> Mass Effect: Andromeda  
+
+> Mass Effect: Andromeda
+  
 > Metronomicon  
-> Mirror's Edge Catalyst  
+
+> Mirror's Edge Catalyst 
+ 
 > Moonlighter  
-> Mortal Kombat 11  
+
+> Mortal Kombat 11
+  
 > Once Human
+
 > Overwolf  
+
 > Palworld 
+
 > Prince of Persia The Lost Crown 
-> Star Wars Battlefront II  
-> Starpoint Gemini Warlords  
+
+> Star Wars Battlefront II 
+ 
+> Starpoint Gemini Warlords 
+ 
 > Suicide Squad: Kill the Justice
+
 > Terraria  
+
 > TEKKEN 8
+
 > THE FINALS
-> The Last of Us Part I  
+
+> The Last of Us Part I 
+ 
 > The Sims 4  
-> The Swords of Ditto  
-> Tom Clancy’s: The Division  
-> Total War: Warhammer II  
+
+> The Swords of Ditto
+  
+> Tom Clancy’s: The Division
+  
+> Total War: Warhammer II 
+ 
 > Warhammer 40,000: Rogue Trade
