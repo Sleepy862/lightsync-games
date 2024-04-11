@@ -9,6 +9,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > American Truck Simulator  
 > Anthem  
 > Assetto Corsa  
+> Avatar: Frontiers of Pandora
 > Battlefield 1  
 > Battlefield V  
 > Beat Cop  
@@ -24,24 +25,33 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > Fortnite  
 > Frostpunk  
 > Grand Theft Auto V  
+> HELLDIVERS™ 2
 > Injustice 2  
 > iRacing  
 > Journey to the Savage Planet  
 > Kerbal Space Program 2  
 > Killing Floor 2  
 > League of Legends  
+> Like a Dragon: Infinite Wealth
 > Mafia III  
 > Mass Effect: Andromeda  
 > Metronomicon  
 > Mirror's Edge Catalyst  
 > Moonlighter  
 > Mortal Kombat 11  
+> Once Human
 > Overwolf  
+> Palworld 
+> Prince of Persia The Lost Crown 
 > Star Wars Battlefront II  
 > Starpoint Gemini Warlords  
+> Suicide Squad: Kill the Justice
 > Terraria  
+> TEKKEN 8
+> THE FINALS
 > The Last of Us Part I  
 > The Sims 4  
 > The Swords of Ditto  
 > Tom Clancy’s: The Division  
 > Total War: Warhammer II  
+> Warhammer 40,000: Rogue Trade
