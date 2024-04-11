@@ -9,7 +9,7 @@ Also NOTE: If you know of a game that has integrated lighting that is not on thi
 > American Truck Simulator  
 > Anthem  
 > Assetto Corsa  
-> Avatar: Frontiers of Pandora
+> Avatar Frontiers of Pandora
 > Battlefield 1  
 > Battlefield V  
 > Beat Cop  
